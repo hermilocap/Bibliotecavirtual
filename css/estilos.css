@@ -1,0 +1,24 @@
+select, input:valid {
+outline: 1px solid #092;
+}
+select, input:invalid {
+outline: 1px dashed #FF0000;
+}
+
+.obligatorio
+{
+	color: #FF0000;
+	
+}
+.correcto
+{
+    color: #092;
+		
+}
+
+/*elect,textarea,input:required {
+outline: 2px dashed blue;
+}
+select,textarea,input:optional {
+outline: 2px solid green;
+}*/
